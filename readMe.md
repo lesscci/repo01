@@ -6,7 +6,7 @@ Añadimos el fichero al staging área **[git add .]** y hacemos un snapshot haci
 
 Al crear un repositorio remoto llamado igual que nuestra carpeta, lo asociamos y subimos los cambios **[git remote add origin https://github.com/lesscci/repo01.git git branch -M main git push -u origin main]**.
 
-:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
 
 
 # Comandos utilizados
