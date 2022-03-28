@@ -24,5 +24,4 @@ Al crear un repositorio remoto llamado igual que nuestra carpeta, lo asociamos y
 
 ---
 
-![Adiós!](foto\adios.jpg)
-
+![Adiós!](./foto/adios.jpg)
