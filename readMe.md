@@ -6,7 +6,7 @@ Añadimos el fichero al staging área **[git add .]** y hacemos un snapshot haci
 
 Al crear un repositorio remoto llamado igual que nuestra carpeta, lo asociamos y subimos los cambios **[git remote add origin https://github.com/lesscci/repo01.git git branch -M main git push -u origin main]**.
 
-:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 
 # Comandos utilizados
@@ -16,8 +16,10 @@ Al crear un repositorio remoto llamado igual que nuestra carpeta, lo asociamos y
 
 **Git commit** :point_right: Captura una instantanea de los cambios preparados en ese momento del proyecto. 
 
-**Git status** :point_right: Sabemos en que estados se encuentran nuestros archivos ( modificados, nuevos, eliminados...)
+**Git status** :point_right: Sabemos en que estados se encuentran nuestros archivos ( modificados, nuevos, eliminados...).
 
 **Git push** :point_right: Subir los commits en tu repositorio local al repositorio remoto. 
 
 **Git remote** :point_right: Permite crear, ver y eliminar conexiones con otros repositorios. 
+
+---
